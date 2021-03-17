@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504605312504",
+    "project_id": "student-info-manage-for-a581d",
+    "storage_bucket": "student-info-manage-for-a581d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504605312504:android:afd15c56adb680894ec20d",
+        "android_client_info": {
+          "package_name": "com.example.studentinformationmanagementforhall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504605312504-jl7kb0tbdu4rkkvlk545kfptoggu3tp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uiAd_Udd4gVuT0TE0BYoG-hGraW3Xns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504605312504-jl7kb0tbdu4rkkvlk545kfptoggu3tp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
